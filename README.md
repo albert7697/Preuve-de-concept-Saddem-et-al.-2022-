@@ -1,5 +1,7 @@
 # Preuve-de-concept-Saddem-et-al.-2022-
-Il s'agit de la preuve de concept relative a l'article scientifique portant sur : Machine learning-based approach for online fault Diagnosis of Discrete  Event System.
-Le document central qui constitue le fil conducteur de notre travail est celui qui porte le nom "PoC". 
-Nous vous recommandons de l'ouvrir en premier. C'est le rapport de notre travail. 
-Il contient des liens qui permettent de comprendre la coherence de tout le travail. 
+Ce travail est divisé en trois grande parties : La première porte sur l'acquissions des données, la deuxième sur la préparation des données et la dernière sur l'entrainement, le test et la validation du modèle de Machine Learning. 
+
+Le document central qui constitue le fil conducteur, est celui qui porte le nom « PoC ».
+Nous vous recommandons de l'ouvrir en premier. Car il contient des liens qui permettent de comprendre la cohérence de tout le travail.
+
+ Chacune des parties décrites dans « PoC » contient un lien qui revoit vers les sous parties décrites précédemment.
